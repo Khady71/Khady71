@@ -7,7 +7,7 @@
 <br>
 💬 On my free time, i like to read fictions, watch movies and go out with friends.
 <br>
-⚡ Fun fact: Code. Bug. Cry. Coffee. Fix. Repeat.
+⚡ Fun fact: I used to hide my projects in ZIP files instead of pushing them to GitHub… oops.
 
 
 
